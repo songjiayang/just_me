@@ -22,7 +22,7 @@
 * 熟悉 Git, SVN;
 * 会点C#, Android, Python, NodeJs;
 * 熟悉 HTML、CSS、Javascript 以及 slim和haml
-* 用使用Vim, Sublime
+* 会使用Vim, Sublime
 
 ### 经历
 
@@ -35,3 +35,12 @@
 * 2012.03 开始接触rails.
 * 2012.06开始和同学一起创业,在此期间我们一起开发了[微大学](http://weidaxue.me),目前这个项目还在线上.
 * 2012.10~2013.03 到团800公司做Ruby实习.  
+
+### 寄予
+有人说:"程序员是上辈子折断翅膀的天使",那我们就应该更加懂得珍惜自己,自强不息，创意无限.Come on!
+
+愿天下程序员都能 happy code, code happy......
+
+
+
+
