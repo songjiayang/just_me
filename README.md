@@ -16,7 +16,7 @@
 ### 技能
 
 * 2年以上的互联网行业 Web 开发经验，1年网站架构经验;
-* 熟悉linux,windoms 环境下开发;
+* 熟悉linux,windows 环境下开发;
 * 2年Java,1年Ruby开发经验;
 * 熟悉 MySQL, Redis 等数据库;
 * 熟悉 Git, SVN;
