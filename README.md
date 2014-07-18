@@ -9,15 +9,14 @@
 * 城市: 成都
 * Email: songjiayang1@gmail.com
 * Twitter: @small_fish__
-* Sina: [@jiayangsong](http://www.weibo.com/u/2509297884)
 * Github: [songjiayang](https://github.com/songjiayang) 
 * Tel: 13301631167
 
 ### 技能
 
-* 2年以上的互联网行业 Web 开发经验，1年网站架构经验;
+* 3年以上的互联网行业 Web 开发经验，2年网站架构经验;
 * 熟悉linux,windows 环境下开发;
-* 2年Java,1年Ruby开发经验;
+* 1年Java,2年Ruby开发经验;
 * 熟悉 MySQL, Redis 等数据库;
 * 熟悉 Git, SVN;
 * 会点C#, Android, Python, NodeJs;
@@ -37,11 +36,7 @@
 * 2012.10~2013.03 到[团800](http://www.tuan800.com/)公司做Ruby实习.
 * 2013.03~04  辞职回学校继续孵化微大学,同时接手一个外包[work兼职平台](http://work.weidaxue.me/users/sign_in).
 * 2013. 03.23 在ruby-china上看到此帖---[找朋友一起学 Rails](http://ruby-china.org/topics/9358),至此开始在github上fork代码, 主要贡献的项目有[chater](https://github.com/fireweb/chater)和[cms_6bey](https://github.com/mistbow/cms_6bey)感觉大家一起写代码还不错，氛围很好.
-* 2013.04.25 一个人只身来上上海，工作于[gigabase](http://gigabase.org), 在这里良好的工作氛围和技术基础，让我成长很快，感谢giga.
-
-### 寄予
-* 有人说:"程序员是上辈子折断翅膀的天使",那我们就应该更加懂得珍惜自己,自强不息，创意无限.Come on!
-* 愿天下程序员都能 happy code, code happy......
+* 2013.04.25~至今 一个人只身来上上海，工作于[gigabase](http://gigabase.org), 在这里良好的工作氛围和技术基础，让我成长很快，感谢giga.
 
 
 
