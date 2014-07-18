@@ -38,7 +38,7 @@
 * 2012.10~2013.03 到[团800](http://www.tuan800.com/)公司做Ruby实习.
 * 2013.03~04  辞职回学校继续孵化微大学,同时接手一个外包[work兼职平台].
 * 2013. 03.23 在ruby-china上看到此帖---[找朋友一起学 Rails](http://ruby-china.org/topics/9358),至此开始在github上fork代码, 主要贡献的项目有[chater](https://github.com/fireweb/chater)和[cms_6bey](https://github.com/mistbow/cms_6bey)感觉大家一起写代码还不错，氛围很好.
-* 2013.04.25~至今 工作于[gigabase](http://gigabase.org), 在这里良好的工作氛围和技术基础，让我成长很快，感谢giga.
+* 2013.04.25~至今 工作于[gigabase](http://gigabase.org).
 
 
 
