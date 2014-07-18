@@ -11,6 +11,7 @@
 * Twitter: @small_fish__
 * Github: [songjiayang](https://github.com/songjiayang) 
 * Tel: 13301631167
+* 个人博客： http://songjiayang.github.io/
 
 ### 技能
 
