@@ -5,6 +5,7 @@
 * 姓名: 宋佳洋 (small_fish__)
 * 年龄: 24
 * 学历: 大学本科(2013毕业)
+* 学校： 西南石油大学
 * 英语: 四级
 * 城市: 成都
 * Email: songjiayang1@gmail.com
@@ -18,9 +19,9 @@
 * 3年以上的互联网行业 Web 开发经验，2年网站架构经验;
 * 熟悉linux,windows 环境下开发;
 * 1年Java,2年Ruby开发经验;
-* 熟悉 MySQL, Redis 等数据库;
+* 熟悉 MySQL, Redis ;
 * 熟悉 Git, SVN;
-* 会点C#, Android, Python, NodeJs;
+* 会点C#, Android, Python, NodeJs, Swift;
 * 熟悉 HTML、CSS 以及 slim和haml
 * 熟悉和使用 Javascript，coffeescript,以及backbone之类的前端MVC框架
 * 会使用Vim, Sublime
