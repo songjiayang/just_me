@@ -3,7 +3,7 @@
 ### 资料
 
 * 姓名: 宋佳洋 (small_fish__)
-* 年龄: 24
+* 年龄: 28
 * 学历: 大学本科(2013毕业)
 * 学校：西南石油大学
 * 英语: 四级
@@ -12,17 +12,18 @@
 * Twitter: @small_fish__
 * Github: [songjiayang](https://github.com/songjiayang) 
 * Tel: 13301631167
-* 个人博客： http://songjiayang.github.io/
+* 个人博客： http://songjiayang.github.io
+* 个人微信公众号：第二范式
 
 ### 技能
 
 * 5年以上的互联网行业 Web 开发经验，4年网站架构经验;
 * 熟悉linux,windows 环境下开发;
-* 1年Java, 4年 Ruby, 1年 Golang 开发经验;
-* 熟悉 MySQL, Redis ;
-* 熟悉 Git, SVN;
-* 会点C#, Android, Python, NodeJs, Swift;
-* 熟悉和使用 Javascript，coffeescript, 以及 Backbone, React 之类的前端框架;
+* 1年 Java, 4年 Ruby, 2年 Golang 开发经验;
+* 熟悉 MySQL, Redis，MongoDB ;
+* 熟悉 GitFlow;
+* 会点 C#, Android, Python, NodeJs, Swift;
+* 熟悉和使用 React, Vue 之类的前端框架;
 
 ### 经历
 
@@ -39,8 +40,3 @@
 * 2013.03.23 在ruby-china上看到此帖---[找朋友一起学 Rails](http://ruby-china.org/topics/9358), 至此开始在github上fork代码, 主要贡献的项目有[chater](https://github.com/fireweb/chater)和[cms_6bey](https://github.com/mistbow/cms_6bey)感觉大家一起写代码还不错，氛围很好.
 * 2013.04.25~2016.05 工作于[gigabase](http://gigabase.org).
 * 2016.05~至今 工作于[七牛](https://www.qiniu.com).
-
-
-
-
-
