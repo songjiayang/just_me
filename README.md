@@ -3,7 +3,7 @@
 ### 资料
 
 * 姓名: 宋佳洋 (small_fish__)
-* 年龄: 28
+* 年龄: 29
 * 学历: 大学本科(2013毕业)
 * 学校：西南石油大学
 * 英语: 四级
@@ -39,4 +39,5 @@
 * 2013.03~04 辞职回学校继续孵化微大学,同时接手一个外包[work兼职平台].
 * 2013.03.23 在ruby-china上看到此帖---[找朋友一起学 Rails](http://ruby-china.org/topics/9358), 至此开始在github上fork代码, 主要贡献的项目有[chater](https://github.com/fireweb/chater)和[cms_6bey](https://github.com/mistbow/cms_6bey)感觉大家一起写代码还不错，氛围很好.
 * 2013.04.25~2016.05 工作于[gigabase](http://gigabase.org).
-* 2016.05~至今 工作于[七牛](https://www.qiniu.com).
+* 2016.05~2018.08 工作于[七牛](https://www.qiniu.com).
+* 2018.08~至今 工作于[京东云](https://www.jdcloud.com).
